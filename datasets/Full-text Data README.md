@@ -28,7 +28,7 @@ Once stripped of the HTML, each row of text represents an oral history interview
 - Body - The full text of the interview
 
 
-<img width="1452" height="757" alt="Screenshot 2026-05-26 at 12 47 03" src="https://github.com/user-attachments/assets/b64ab967-e43f-45f7-ac43-561a3be576f0" />
+<img width="513" height="358" alt="Screenshot 2026-05-26 at 12 47 03" src="https://github.com/user-attachments/assets/b64ab967-e43f-45f7-ac43-561a3be576f0" />
 
 A screenshot of a portion of the spreadsheet
 
